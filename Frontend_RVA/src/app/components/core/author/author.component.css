@@ -1,0 +1,9 @@
+.example-card {
+    max-width: 600px;
+    margin: 5pt;
+  }
+  
+  .example-header-image {
+    background-image: url('../../../../assets/slika.jpg');
+    background-size: cover;
+  }
